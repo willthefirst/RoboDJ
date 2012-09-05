@@ -1,0 +1,33 @@
+{
+	"1" : 	{
+		"cue_time" : 9,
+		"clip_location" : [ 0, 0 ],
+		"method" : "record",
+		"length" : 8
+	}
+,
+	"2" : 	{
+		"cue_time" : 17,
+		"clip_location" : [ 1, 0 ],
+		"method" : "record",
+		"length" : 8,
+
+		"clip_location_2": [0, 0],
+		"method_2": "play"
+	}
+,
+	"3" : 	{
+		"cue_time" : 30,
+		"clip_location" : [ 2, 0 ],
+		"method" : "record",
+		"length" : 8
+	}
+,
+	"4" : 	{
+		"cue_time" : 40,
+		"clip_location" : [ 3, 0 ],
+		"method" : "record",
+		"length" : 8
+	}
+
+}
