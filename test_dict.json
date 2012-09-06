@@ -28,12 +28,12 @@
 
 		"method_2" : "play",
 		"clip_location_2" : [ 2, 1 ],
-		"length_2" : 5,
+		"length_2" : 8,
 
 
 		"method_3" : "play",
 		"clip_location_3" : [ 2, 2 ],
-		"length_3" : 3
+		"length_3" : 8
 	}
 ,
 	"4" : 	{
