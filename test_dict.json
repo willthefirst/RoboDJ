@@ -4,26 +4,25 @@
 
 		"method_1" : "record",
 		"clip_location_1" : [ 0, 0 ],
-		"length_1" : 16  
+		"length_1" : 8  
 	}
 ,
 	"2" : 	{
-		"cue_time" : 34,
+		"cue_time" : 17,
 
 		"method_1" : "record",
 		"clip_location_1" : [ 1, 0 ],
-		"length_1" : 16
-	}
-,
-	"3" : 	{
-		"cue_time" : 53,
-
-		"method_1" : "play",
-		"clip_location_1" : [ 1, 0 ],
-		"length_1" : 800,
+		"length_1" : 8,
 
 		"method_2" : "play",
 		"clip_location_2" : [ 0, 0 ],
-		"length_2" : 800
+		"length_2" : 160
 	}
-}
+,
+	"3" : 	{
+		"cue_time" : 25,
+
+		"method_2" : "play",
+		"clip_location_2" : [ 1, 0 ],
+		"length_2" : 160
+	}
