@@ -1,0 +1,57 @@
+{
+	"1" : 	{
+		"cue_time" : 33,
+
+		"method_1" : "record",
+		"clip_location_1" : [ 0, 0 ],
+		"length_1" : 128
+	},
+
+	"2" : 	{
+		"cue_time" : 225,
+
+		"method_1" : "record",
+		"clip_location_1" : [ 0, 1 ],
+		"length_1" : 16 
+	},
+
+	"3" : 	{
+		"cue_time" : 241,
+
+		"method_1" : "play",
+		"clip_location_1" : [ 0, 0 ],
+		"length_1" : 128 
+	},
+
+	"4" : 	{
+		"cue_time" : 465,
+
+		"method_1" : "record",
+		"clip_location_1" : [ 1, 1 ],
+		"length_1" : 16,
+
+		"method_2" : "play",
+		"clip_location_2" : [ 0, 1 ],
+		"length_2" : 16
+	},
+
+	"5" : 	{
+		"cue_time" : 481,
+
+		"method_1" : "play",
+		"clip_location_1" : [ 0, 0 ],
+		"length_1" : 64 
+	},
+
+	"6" : 	{
+		"cue_time" : 729,
+
+		"method_1" : "play",
+		"clip_location_1" : [ 0, 0 ],
+		"length_1" : 32,
+
+		"method_2" : "play",
+		"clip_location_2" : [ 1, 1 ],
+		"length_2" : 32
+	}
+}

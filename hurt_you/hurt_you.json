@@ -1,0 +1,174 @@
+{
+	"1" : 	{
+		"cue_time" : 25,
+
+		"method_1" : "record",
+		"clip_location_1" : [ 0, 0 ],
+		"length_1" : 16
+	},
+
+	"2": {
+		"cue_time": 73,
+
+		"method_1" : "record",
+		"clip_location_1" : [ 0, 1 ],
+		"length_1" : 8
+	},
+
+	"3": {
+		"cue_time": 81,
+
+		"method_1" : "record",
+		"clip_location_1" : [ 1, 1 ],
+		"length_1" : 8,	
+
+		"method_2" : "play",
+		"clip_location_2" : [ 0, 1 ],
+		"length_2" : 8
+	},
+
+	"4" : 	{
+		"cue_time" : 89,
+
+		"method_1" : "record",
+		"clip_location_1" : [ 2, 2 ],
+		"length_1" : 36
+	},
+
+	"5" : 	{
+		"cue_time" : 109,
+
+		"method_1" : "play",
+		"clip_location_1" : [ 0, 1 ],
+		"length_1" : 16
+	},
+
+	"6" : 	{
+		"cue_time" : 117,
+
+		"method_1" : "play",
+		"clip_location_1" : [ 1, 1 ],
+		"length_1" : 8
+	},
+
+
+	"7" : 	{
+		"cue_time" : 133,
+
+		"method_1" : "play",
+		"clip_location_1" : [ 0, 0 ],
+		"length_1" : 56
+	},
+
+	"8" : 	{
+		"cue_time" : 189,
+
+		"method_1" : "play",
+		"clip_location_1" : [ 0, 1 ],
+		"length_1" : 16
+	},
+
+	"9" : 	{
+		"cue_time" : 197,
+
+		"method_1" : "play",
+		"clip_location_1" : [ 1, 1 ],
+		"length_1" : 8
+	},
+
+	"10" : 	{
+		"cue_time" : 205,
+
+		"method_1" : "play",
+		"clip_location_1" : [ 2, 2 ],
+		"length_1" : 36
+	},
+
+	"11" : 	{
+		"cue_time" : 225,
+
+		"method_1" : "play",
+		"clip_location_1" : [ 0, 1 ],
+		"length_1" : 16
+	},
+
+	"12" : 	{
+		"cue_time" : 233,
+
+		"method_1" : "play",
+		"clip_location_1" : [ 1, 1 ],
+		"length_1" : 8
+	},
+
+	"13" : 	{
+		"cue_time" : 257,
+
+		"method_1" : "record",
+		"clip_location_1" : [ 0, 3 ],
+		"length_1" : 16
+	},
+
+	"14" : 	{
+		"cue_time" : 273,
+
+		"method_1" : "play",
+		"clip_location_1" : [ 0, 3 ],
+		"length_1" : 32
+	},
+
+	"15" : 	{
+		"cue_time" : 337,
+
+		"method_1" : "play",
+		"clip_location_1" : [ 0, 0 ],
+		"length_1" : 64
+	},
+
+	"16" : 	{
+		"cue_time" : 401,
+
+		"method_1" : "play",
+		"clip_location_1" : [ 2, 2 ],
+		"length_1" : 24
+	},
+
+	"17" : 	{
+		"cue_time" : 425,
+
+		"method_1" : "play",
+		"clip_location_1" : [ 2, 2 ],
+		"length_1" : 16
+	},
+
+	"18" : 	{
+		"cue_time" : 445,
+
+		"method_1" : "play",
+		"clip_location_1" : [ 0, 1 ],
+		"length_1" : 8
+	},
+
+	"19" : 	{
+		"cue_time" : 481,
+
+		"method_1" : "play",
+		"clip_location_1" : [ 0, 1 ],
+		"length_1" : 205
+	},
+
+	"20" : 	{
+		"cue_time" : 489,
+
+		"method_1" : "play",
+		"clip_location_1" : [ 1, 1 ],
+		"length_1" : 8
+	},
+
+	"21" : 	{
+		"cue_time" : 497,
+
+		"method_1" : "play",
+		"clip_location_1" : [ 0, 3 ],
+		"length_1" : 32
+	}
+}
